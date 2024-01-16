@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SPRstat
+- 👋 Hi, I’m Samya
 - 👀 I’m interested in Statistics, Applied Probablity and some aspects of ML
 - 🌱 I’m currently learning both statistical and probabilistic aspects of Network data
 - 💞️ I’m looking to collaborate on asymptotics of dependent data and model selection of high dimensional data
